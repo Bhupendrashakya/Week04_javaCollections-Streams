@@ -20,7 +20,7 @@ public class TestingReplaceMultipleSpaces {
         // Assert that the result matches the expected value
         assertEquals(expected, result);
 
-        // Printing test success message
+        // Printing test success messages
         System.out.println("Test is successful");
     }
 }
